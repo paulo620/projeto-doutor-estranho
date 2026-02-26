@@ -5,7 +5,7 @@
 }
 
 .secao-topo {
-    background-image: url("image/capa.jpg");
+    background-image: url("capa.jpg");
     background-size: cover;
     background-attachment: fixed;
     min-height: 600px;
@@ -42,7 +42,7 @@ h2 {
 }
 
 .secao-divulgacao {
-    background-image: url("image/img1.jpg");
+    background-image: url("img1.jpg");
     background-size: cover;
     background-attachment: fixed;
     height: 200px;
@@ -62,4 +62,5 @@ span {
 
 .secao-conteudo p {
     margin-top: 20px;
+
 }
